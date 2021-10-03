@@ -1,1 +1,1 @@
-Расшифровка для сервера [RevolGC](https://revolgc.pro)
+# Расшифровка для сервера [RevolGC](https://revolgc.pro)
